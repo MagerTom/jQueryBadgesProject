@@ -3,7 +3,7 @@ $(function() {
   // your code will go here
 
   $.ajax({
-  url: 'https://www.codeschool.com/users/3570413.json',
+  url: 'https://www.codeschool.com/users/MagerTom.json',
   dataType: 'jsonp',
   success: function(data) {
     // handle response
